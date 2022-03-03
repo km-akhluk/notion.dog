@@ -1,0 +1,11 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"9abd4b6fb56d43ce965c940d71e15b03"
+    },
+  
+    "PAGE_TITLE" : "Km Akhluk", 
+    "PAGE_DESCRIPTION" : "Web Developer",
+    
+    "GOOGLE_FONT" : "Nunito",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}
